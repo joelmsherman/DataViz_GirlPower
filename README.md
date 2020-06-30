@@ -6,7 +6,7 @@ https://data.world/makeovermonday/2020w26/workspace/file?filename=Economic+Empow
 Data Source:  World Bank WBL
 https://wbl.worldbank.org/en/wbl-data
 
-Original Chart: joelmsherman/DataViz-AmazonMargins/AmazonMargins_Original.pdf
-Revised Chart: joelmsherman/DataViz-AmazonMargins/AmazonMargins_Revised.pdf
+Original Chart: joelmsherman/DataViz_GirlPower/EconomicEmpowerment.png
+Revised Chart: joelmsherman/DataViz_GirlPower/AmazonMargins_Revised.pdf
 
-Methods:  Understand business objectives from above by reading article.  Ingest data from source to Tableau.  Clean data (formats, field names).  Create calculated field capinv_costs_m = [revenue_us_m] - [net_income_us_m].  Produce visualization. 
+Methods:  
