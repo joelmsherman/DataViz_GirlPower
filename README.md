@@ -7,6 +7,6 @@ Data Source:  World Bank WBL
 https://wbl.worldbank.org/en/wbl-data
 
 Original Chart: joelmsherman/DataViz_GirlPower/EconomicEmpowerment.png
-Revised Chart: joelmsherman/DataViz_GirlPower/AmazonMargins_Revised.pdf
+Revised Chart: joelmsherman/DataViz_GirlPower/Dashboard1.pdf
 
-Methods:  
+Methods:  Review all Women, Business and the Law (WBL) documentation and data.  Download data as Excel and read into Tableau.  Create Fixed level of detail measure for average equality index score:  AVG({FIXED [Country], [WBL Report Year], [Question Category]: SUM([Index Score])}). Create global MapBox theme map on score by year.  Create indicator-based scores by year, with filter action based on map country selection.  
